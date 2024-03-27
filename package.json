@@ -1,0 +1,22 @@
+{
+  "name": "langchain-rag-node-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "dependencies": {
+    "@langchain/community": "^0.0.40",
+    "@langchain/core": "^0.1.49",
+    "@langchain/redis": "^0.0.2",
+    "dotenv": "^16.4.5",
+    "langchain": "^0.1.28",
+    "mammoth": "^1.7.1",
+    "redis": "^4.6.13"
+  },
+  "type": "module",
+  "author": "lycpan233",
+  "license": "MIT"
+}
